@@ -36,6 +36,7 @@ header {
 	box-shadow: 0 0 0 6px #9b287b;
 	animation: 2s animateBorder ease infinite;
 	min-width: 260px;
+	max-height: 100px;
 }
 
 header img {
