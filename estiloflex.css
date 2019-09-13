@@ -28,7 +28,7 @@ header {
 	padding: 0;
 	background-color: white;
 	width: 90%;
-	height: 40%;
+	height: auto;
 	/*border: 1px solid black;*/
 	flex-direction: row;
 	flex-wrap: wrap;
